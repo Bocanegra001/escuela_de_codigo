@@ -1,10 +1,11 @@
 ## RETO 
 Vamos a identificar los siguientes tipos de datos
 
-NUMEROS ENTEROS : 
+NUMEROS ENTEROS : int. (interger, entero ) 
 
-NUMEROS DECIMALES: 
+NUMEROS DECIMALES: (2.7.1.)
 
-CARACTER : 
+CARACTER : char o string
 
-CADENA DE CARACTERES : 
+CADENA DE CARACTERES : ejemplo: strpbrk: char*strpbrk
+( char*cad1, const etc.
